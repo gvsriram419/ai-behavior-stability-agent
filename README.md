@@ -114,7 +114,8 @@ The AI agent autonomously:
 
 ## 🏗️ Architecture
 
-![ABSA Architecture](./architecture.png)
+<img width="537" height="406" alt="image" src="https://github.com/user-attachments/assets/e8ed7d41-f4b5-48a0-bbd9-ce75ee252fbd" />
+
 
 ---
 
